@@ -12,4 +12,4 @@ This repository contains Javascript Design Patterns
 
 And also, latest Javascript ECMAScript features
 
-Link to the Session presentation - https://www.slideshare.net/slideshows/unleashing-the-power-of-modern-javascript-developmentpdf/266718274
+Link to the Session presentation - https://www.slideshare.net/slideshows/unleashing-the-power-of-modern-javascript-development/266718330
