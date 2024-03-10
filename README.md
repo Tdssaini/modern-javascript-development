@@ -11,3 +11,5 @@ This repository contains Javascript Design Patterns
 7. MVC Pattern
 
 And also, latest Javascript ECMAScript features
+
+Link to the Session presentation - https://www.slideshare.net/slideshows/unleashing-the-power-of-modern-javascript-developmentpdf/266718274
